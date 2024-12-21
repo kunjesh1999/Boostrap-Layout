@@ -1,0 +1,274 @@
+#id {
+  background-color: #f2f0f6 !important;
+}
+
+.text {
+  color: #7f3487;
+
+  font-size: 200%;
+  margin-left: 10px;
+  margin-top: 20px; 
+  
+}
+
+.text1 {
+  margin-left: 10px;
+}
+
+.box {
+  margin-left: 10px;
+  width: 20%;
+}
+
+.button {
+  background-color: #7f3487;
+  padding: 5px;
+  margin-left: 10px;
+  color: white;
+  border-radius: 7px;
+  border: none;
+
+}
+
+.Log {
+  color: #7f3487;
+  border-radius: 5px;
+  border-color: #7f3487;
+  float: right;
+  margin: 10px;
+  font-size: small;
+  padding:5px;
+  
+  
+
+  /* padding: 10px;
+  float: left;
+  margin: 15px;
+  border-radius: 10px;
+  background-color: white;
+  width: 10%;
+  font-size: 150%;
+  margin-left: 60%; */
+  
+
+
+}
+.sing{
+  float: right;
+  color: #7f3487;
+  border-radius: 5px;
+  font-size: small;
+  margin-top: 13px;
+  border: none ;
+}
+/* .sing {
+  color: blue;
+  padding: 10px;
+  margin: 15px;
+  background-color: white;
+  border-radius: 10px;
+  width: 10%;
+  font-size: 150%;
+  margin-left: 58px;
+  
+
+
+} */
+
+.scholar{
+ /* .card-title { */
+  margin-left: 15%;
+  color: #7f3487 !important;
+  font-size: large;
+  font-weight: 500;
+  text-align: center;
+}
+
+/* .ct-bc
+{
+  width: 100%;
+  text-align: center;
+  background-color: #7f3487;
+  
+} */
+.ct-bc{
+  /* text-align: center; */
+  color: white;
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #7f3487;
+  border-radius: 7px;
+  margin-left: 35%;
+  border: none;
+}
+.Apply {
+  color:white;
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #7f3487;
+  border-radius: 7px;
+  margin-left: 35%;
+  border: none;
+}
+
+.loan {
+  margin-left: 15%;
+  color: navy;
+  text-align: center;
+  margin-top: -181px;
+}
+
+.text2 {
+  text-align: center;
+}
+
+.Apply2 {
+  color: white;
+  padding: 10px;
+  margin-left: 50%;
+  background-color: blueviolet;
+  border-radius: 7px;
+}
+
+.Crow {
+  color: navy;
+  margin-left: 80%;
+  margin-top: -156PX;
+
+}
+
+.text3 {
+  float: right;
+
+
+}
+
+.Apply3 {
+  margin-left: 80%;
+  color: white;
+  padding: 10px;
+  background-color: blueviolet;
+  border-radius: 7px;
+}
+
+.Get {
+  color: #7f3487;
+
+  font-size: 200%;
+  margin-left: 0px;
+  margin-top: 90px; 
+}
+.Counseling{
+  margin-left: 71px;
+}
+
+.Apply4 {
+  padding: 10px;
+  margin-left: -1px;
+  border-radius: 7px;
+  background-color: #7f3487;
+  color: white;
+  border: none;
+  margin-bottom: 80px;
+  
+}
+
+.Applyf {
+  color: #7f3487;
+}
+
+nav {
+  text-align: center;
+  min-height: 50px;
+  /* background: whitesmoke; */
+  padding: 15px 30px 5px 30px;
+  
+  /* top: 20PX; */
+}
+
+nav a {
+  padding: 12px;
+  text-decoration: none;
+  color: black;
+}
+.active{
+  color:#7f3487;
+  font-weight: bold; 
+  border-bottom: 3px #7f3487 solid;
+}
+
+.div1{
+  text-align: center;
+}
+
+.nav-btn-end{
+  position: relative;
+  top:-30px
+}
+.card{
+ margin-top: 10px;
+ margin-left: 10px;
+
+}
+.card1{
+  margin-right:10px;
+}
+.office{
+  background-color:#e9e1ed;
+  height: 300px;
+  margin:20px;
+  align-items: center;
+
+}
+.checkbox{
+  height: 50px;
+  width: 50px;
+  background-color: #7f3487;
+  margin-left: 85px;
+  border-radius: 7px;
+}
+
+
+  .col-border{
+    border-right: 1px solid black;
+    vertical-align: center;
+    /* width: 1000px;
+    column-count:3;
+    column-gap: 50px;
+    column-rule-width:1px;
+    column-rule-style:solid;
+    margin-left: 70px; */
+    
+    }
+    /* .Address{
+      margin-left: 0%;
+    } */
+/* .border{
+  height: 50px;
+  column-count: 3;
+  column-gap:50px;
+  column-fill:auto;
+} */
+.Home{
+  margin-left: 85px;
+}
+.Home1{
+  margin-left: 85px;
+  margin-top: -13PX;
+}
+.height{
+  /* height: 200px; */
+  background-color:#e9e1ed;
+
+}
+.About{
+  margin-left: 104px;     
+  
+
+ 
+}
+/* .About1{
+  margin-left: 104px;
+  padding: 10PX;
+ 
+} */
